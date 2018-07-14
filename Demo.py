@@ -7,7 +7,6 @@ __author__ = chenyang
 
 import win32api as a
 import win32con as b
-import numpy as np
 import time
 
     #创建验证码字典
