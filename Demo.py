@@ -1,7 +1,7 @@
 #-*- coding：utf-8 -*-
 #暴力破解四位纯数字验证码，为保证破解质量，破解时间控制在0-5000 second
 
-__author__ = chenyang
+__author__ = "SWUN_ChenYang"
 
 """ 2018/7/14 21:10"""
 
